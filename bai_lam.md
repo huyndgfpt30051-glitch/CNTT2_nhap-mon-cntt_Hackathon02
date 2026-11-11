@@ -3,7 +3,7 @@
 - **Mã đề:** 10
 - **Họ tên:** NGUYỄN ĐỨC GIA HUY 
 - **Lớp:**CNTT2
-- **Link repository:**
+- **Link repository:https://github.com/huyndgfpt30051-glitch/CNTT2_nhap-mon-cntt_Hackathon02.git**
 - **Hệ điều hành (Windows/macOS):**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
